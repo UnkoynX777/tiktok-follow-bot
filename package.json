@@ -1,0 +1,21 @@
+{
+  "name": "tiktok-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "check": "--noEmit && echo ✔ Ok",
+    "start": "tsx --env-file .env ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "consola": "^3.4.0",
+    "puppeteer": "^24.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
