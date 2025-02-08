@@ -46,7 +46,7 @@ Este é um bot automatizado para seguir e deixar de seguir perfis no TikTok, uti
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/UnkoynX777/tiktok-follow-bot
+   git clone https://github.com/UnkoynX777/tiktok-follow-bot.git
    cd tiktok-follow-bot
    ```
 
